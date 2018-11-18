@@ -1,0 +1,33 @@
+{
+    "apps":
+
+     [{
+       "app_title": "SnapTube",
+       "app_desc": "Download Youtube Videos for free!",
+       "app_icon": "https://alternative.me/icons/snaptube.jpg",
+       "app_header_image": "http://www.snaptube.co.in/wp-content/uploads/2017/09/snaptube-2.jpg",
+       "app_uri": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+       "app_rating": "4.6",
+       "app_cta_text": "Install Now",
+       "app_price": "Free",
+       "app_adType": "dialog"
+     },
+
+     {
+       "app_interstitial_url": "http://www.snaptube.co.in/wp-content/uploads/2017/09/snaptube-2.jpg",
+       "app_uri": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+       "app_adType": "interstitial"
+     },
+      
+     {
+     "app_title": "Facebook lite",
+     "app_desc": "facebook app for free",
+     "app_icon": "https://lh3.googleusercontent.com/Alon4Gigwl2DqrT36O6JMn-M40tinuxFHWROtv0TP8ozX8Sr5MiBM1CuHX-veqFhnKvQ=s180",
+     "app_header_image": "https://4.bp.blogspot.com/-l7pge6-ejv8/UDTCOjSit-I/AAAAAAAACmA/5kv3TXHdCNg/s1600/safe_image.jpg",
+     "app_uri": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+     "app_rating": "4.4",
+     "app_cta_text": "Install",
+     "app_price": "Free",
+     "app_adType": "native"
+     }]
+    }
